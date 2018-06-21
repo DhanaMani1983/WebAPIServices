@@ -1,0 +1,1 @@
+﻿nuget pack Saga.SSO.ClientCredentials.Endpoint.csproj -Prop Configuration=Release

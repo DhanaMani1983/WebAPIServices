@@ -1,0 +1,145 @@
+﻿{
+  "Errors": [],
+  "HttpStatusCode": 200,
+  "Data": [
+    {
+      "PermissionId": 25121905,
+      "Source": "Legacy",
+      "Hac": false,
+      "ReConsentRequiredCore": false,
+      "JourneyType": "Offline",
+      "Journey": "Online",
+      "LastUpdatedDate": "2018-01-30T10:00:28",
+      "LastUpdatedAgentName": "Unknown",
+      "PermissionCategory": [
+        {
+          "PermissionCategoryStatus": "OptOut",
+          "PermissionCategoryDisplayValue": "Insurance",
+          "LastUpdatedDate": "2018-01-30T10:00:28",
+          "ChannelPostFlag": "OptOut",
+          "ChannelEmailFlag": "OptOut",
+          "ChannelPhoneNoFlag": "OptOut",
+          "ChannelSmsFlag": "NotAsked",
+          "ReConsentRequired": false
+        },
+        {
+          "PermissionCategoryStatus": "OptOut",
+          "PermissionCategoryDisplayValue": "Holidays and Cruises",
+          "LastUpdatedDate": "2018-01-30T10:00:28",
+          "ChannelPostFlag": "OptOut",
+          "ChannelEmailFlag": "OptOut",
+          "ChannelPhoneNoFlag": "OptOut",
+          "ChannelSmsFlag": "NotAsked",
+          "ReConsentRequired": false
+        },
+        {
+          "PermissionCategoryStatus": "OptOut",
+          "PermissionCategoryDisplayValue": "Personal Finance",
+          "LastUpdatedDate": "2018-01-30T10:00:28",
+          "ChannelPostFlag": "OptOut",
+          "ChannelEmailFlag": "OptOut",
+          "ChannelPhoneNoFlag": "OptOut",
+          "ChannelSmsFlag": "NotAsked",
+          "ReConsentRequired": false
+        },
+        {
+          "PermissionCategoryStatus": "NotAsked",
+          "PermissionCategoryDisplayValue": "Membership",
+          "LastUpdatedDate": "1900-01-01T00:00:00",
+          "ChannelPostFlag": "NotAsked",
+          "ChannelEmailFlag": "NotAsked",
+          "ChannelPhoneNoFlag": "NotAsked",
+          "ChannelSmsFlag": "NotAsked",
+          "ReConsentRequired": true
+        },
+        {
+          "PermissionCategoryStatus": "NotAsked",
+          "PermissionCategoryDisplayValue": "Retirement Villages",
+          "LastUpdatedDate": "1900-01-01T00:00:00",
+          "ChannelPostFlag": "NotAsked",
+          "ChannelEmailFlag": "NotAsked",
+          "ChannelPhoneNoFlag": "NotAsked",
+          "ChannelSmsFlag": "NotAsked",
+          "ReConsentRequired": true
+        },
+        {
+          "PermissionCategoryStatus": "NotAsked",
+          "PermissionCategoryDisplayValue": "Magazine",
+          "LastUpdatedDate": "1900-01-01T00:00:00",
+          "ChannelPostFlag": "NotAsked",
+          "ChannelEmailFlag": "NotAsked",
+          "ChannelPhoneNoFlag": "NotAsked",
+          "ChannelSmsFlag": "NotAsked",
+          "ReConsentRequired": true
+        },
+        {
+          "PermissionCategoryStatus": "NotAsked",
+          "PermissionCategoryDisplayValue": "Care services",
+          "LastUpdatedDate": "1900-01-01T00:00:00",
+          "ChannelPostFlag": "NotAsked",
+          "ChannelEmailFlag": "NotAsked",
+          "ChannelPhoneNoFlag": "NotAsked",
+          "ChannelSmsFlag": "NotAsked",
+          "ReConsentRequired": true
+        }
+      ],
+      "ChannelPostalAddress": {
+        "HouseName": null,
+        "HouseNumber": null,
+        "Street": "5 Walton Road Folkestone Kent",
+        "Street1": "CT195QR",
+        "City": null,
+        "County": null,
+        "Country": null,
+        "Postcode": "CT195QR"
+      },
+      "ChannelEmailAddress": "",
+      "ChannelPhoneNo": "",
+      "ChannelSmsNo": "",
+      "ChannelPostalAddressList": [
+        {
+          "HouseName": null,
+          "HouseNumber": null,
+          "Street": "5 Walton Road Folkestone Kent",
+          "Street1": "CT195QR",
+          "City": null,
+          "County": null,
+          "Country": null,
+          "Postcode": "CT195QR"
+        }
+      ],
+      "ChannelEmailAddressList": [
+        ""
+      ],
+      "ChannelSMSNoList": [
+        ""
+      ],
+      "ChannelPhoneNoList": [
+        ""
+      ],
+      "CurrentDatetime": "2018-04-30T12:56:58.2196429Z"
+    },
+    {
+      "CustomerMatches": [
+        {
+          "Title": "",
+          "FirstName": "Dez",
+          "Surname": "Bouwc",
+          "Dob": "1942-05-28T00:00:00",
+          "EmailAddress": "",
+          "Homephone": "",
+          "Workphone": null,
+          "MobilePhone": "",
+          "SmsPhone": "",
+          "Address": "5 Walton Road Folkestone Kent",
+          "Postcode": "CT195QR",
+          "NumeroId": null,
+          "TaurusId": null
+        }
+      ]
+    }
+  ],
+  "Success": true,
+  "HttpMessage": "OK",
+  "Info": ""
+}
